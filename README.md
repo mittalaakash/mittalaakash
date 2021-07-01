@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="https://user-images.githubusercontent.com/47713668/124179607-b171a580-dad0-11eb-98da-f366696350a2.gif" width="1800" height="400">
+=======
+<img src="https://user-images.githubusercontent.com/47713668/124179269-38724e00-dad0-11eb-9b96-bec896cf21d3.gif" width="1800" height="400">
+>>>>>>> 74fbe468d7e9b28e102929447bf4b79714bc2c82
 
 <h1 align="center">Hi 👋, I'm Aakash Mittal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
