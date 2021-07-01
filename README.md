@@ -1,4 +1,4 @@
-![J4o]<img src="https://user-images.githubusercontent.com/47713668/124163111-dfe58580-dabc-11eb-9a94-8ce007e98f17.gif" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/47713668/124163111-dfe58580-dabc-11eb-9a94-8ce007e98f17.gif" width="1600" height="390">
 
 <h1 align="center">Hi 👋, I'm Aakash Mittal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
