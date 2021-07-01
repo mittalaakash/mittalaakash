@@ -1,3 +1,5 @@
+![Alt Text](https://i.gifer.com/J4o.gif)
+
 <h1 align="center">Hi 👋, I'm Aakash Mittal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
