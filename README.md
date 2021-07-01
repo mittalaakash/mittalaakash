@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/47713668/124163111-dfe58580-dabc-11eb-9a94-8ce007e98f17.gif" width="1800" height="400">
+<img src="https://i.gifer.com/7kmF.gif" width="1800" height="400">
 
 <h1 align="center">Hi 👋, I'm Aakash Mittal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
