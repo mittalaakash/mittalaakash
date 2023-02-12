@@ -35,3 +35,5 @@
 
 <br/>
 <br/>
+
+![Metrics](/github-metrics.svg)
