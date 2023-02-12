@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mittalaakash/mittalaakash/blob/master/devcard.svg" width="400" alt="Aakash Mittal's Dev Card"/></a>
 <a href="https://linkedin.com/in/aakashmittaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashmittaldev" height="30" width="40" /></a>
 <a href="https://fb.com/ash6599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ash6599" height="30" width="40" /></a>
 <a href="https://instagram.com/aka_ashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aka_ashmit" height="30" width="40" /></a>
