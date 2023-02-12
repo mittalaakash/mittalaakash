@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
   calendar:
@@ -48,4 +49,5 @@ jobs:
         plugin_languages_ignored: >-
          tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
           gnuplot
+        plugin_languages_details: bytes-size, percentage
         plugin_languages_limit: 4
