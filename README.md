@@ -36,4 +36,6 @@
 <br/>
 <br/>
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.svg)
+![Metrics](/achievements.svg)
+![Metrics](/languages.svg)
