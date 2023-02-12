@@ -39,3 +39,4 @@
 ![Metrics](/metrics.svg)
 ![Metrics](/achievements.svg)
 ![Metrics](/languages.svg)
+![Metrics](/calendar.svg)
