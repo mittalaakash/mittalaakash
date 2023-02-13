@@ -2,29 +2,21 @@
 
 ![Metrics](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/metrics.svg)<a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://raw.githubusercontent.com/mittalaakash/mittalaakash/devcard/devcard.svg" width="256" alt="Aakash Mittal's Dev Card"/></a>
 
-<h3 align="left">About me: I'ld say I'm a passionate full stack developer from India</h3>
+<h3>
 
 - 💼 Currently working for World's leading EdTech **Byjus's**
 
 - 🔭 Ongoing Project: **Development of a platform to support the delivery of orders as part of our expansion into the US market.**
 
-- I'm a ⭐ when it comes to **JavaScript** and all the cool frameworks and libraries that go with it, like **Node.js** and **React** I've got 2+ years of experience under my belt and know my way around building killer web apps.
+- 🥼 I'm a ⭐ when it comes to **JavaScript** and all the cool frameworks and libraries that go with it, like **Node.js** and **React** I've got 2+ years of experience under my belt and know my way around building killer web apps.
 
 - 🌱 In addition to my existing expertise, I am actively working to improve my **Data Structures and Algorithms** skills using the **C++** programming language. This effort is part of my ongoing commitment to maintaining and expanding my technical knowledge, in order to stay ahead of industry developments and deliver the highest quality work to my clients and employers.
 
 - 📫 You can reach out to me at **mit.ash.619@gmail.com**
 
 - ⚡ Fun fact **I'm a Mechanical Engineer 🛠️ by Degree and a Software Engineer 💻by keyboard, mouse, and Google search skills! Basically, I can fix your car one day and code you a website the next! I'm like a jack-of-all-trades but instead of a hammer, I have a keyboard, and instead of a nail, I have a bug that I need to fix.**
-
-💼 Currently working for World's leading EdTech: BYJU's 🚀
-🔭 Currently working on: Tour-Project 🚀
-🌱 Currently learning: new things every day 🧠
-💬 Expert in: Javascript 💻
-📫 Reach me at: mit.ash.619@gmail.com 📧
-⚡ Fun fact: Mechanical Engineer by education and Software Engineer by skills 🤓
-
+</h3>
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aakashmittaldev" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashmittaldev" height="30" width="40" /></a>

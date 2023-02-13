@@ -1,11 +1,11 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{ cron: '0 0 * * *' }]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: { branches: ['master', 'main'] }
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -14,22 +14,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.31
         with:
-        
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-           # GITHUB_TOKEN is a special auto-generated token used for commits
+          token:
+            ${{ secrets.METRICS_TOKEN }}
+
+            # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update `${filename}`"
-          
+          committer_message: 'build: update `${filename}`'
+
           # Options
           user: mittalaakash
-          config_display: regular
+          config_display: columns
           config_timezone: Europe/Oslo
           config_output: svg
           filename: metrics.svg
-          
+
           # Retrying automatically failed rendering and output action
           retries_output_action: 5
           retries_delay_output_action: 60
@@ -39,94 +39,96 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.31
         with:
-        
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-           # GITHUB_TOKEN is a special auto-generated token used for commits
+          token:
+            ${{ secrets.METRICS_TOKEN }}
+
+            # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update `${filename}`"
-          
+          committer_message: 'build: update `${filename}`'
+
           # Options
           user: mittalaakash
           template: classic
-          base: ""
+          base: ''
           config_display: large
           config_timezone: Europe/Oslo
           config_output: svg
-          filename: calendar.svg
-          
-           # Calendar plugin
+          filename:
+            calendar.svg
+
+            # Calendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
+
           # Retrying automatically failed rendering and output action
           retries_output_action: 5
           retries_delay_output_action: 60
-          
+
   achievements:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@v3.31
         with:
-        
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-           # GITHUB_TOKEN is a special auto-generated token used for commits
+          token:
+            ${{ secrets.METRICS_TOKEN }}
+
+            # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update `${filename}`"
-          
+          committer_message: 'build: update `${filename}`'
+
           # Options
           user: mittalaakash
           template: classic
-          base: ""
+          base: ''
           config_display: large
           config_timezone: Europe/Oslo
           config_output: svg
           filename: achievements.svg
-          
+
           # Achievement plugin
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
-          plugin_achievements_display: compact 
-          
+          plugin_achievements_display: compact
+
           # Retrying automatically failed rendering and output action
           retries_output_action: 5
           retries_delay_output_action: 60
-          
+
   languages:
     runs-on: ubuntu-latest
     steps:
-     - uses: lowlighter/metrics@v3.31
-       with:
-        
+      - uses: lowlighter/metrics@v3.31
+        with:
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-           # GITHUB_TOKEN is a special auto-generated token used for commits
+          token:
+            ${{ secrets.METRICS_TOKEN }}
+
+            # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update `${filename}`"
-          
+          committer_message: 'build: update `${filename}`'
+
           # Options
           user: mittalaakash
           template: classic
-          base: ""
+          base: ''
           config_display: large
           config_timezone: Europe/Oslo
           config_output: svg
-          filename: languages.svg
-          
-           # Language plugin
+          filename:
+            languages.svg
+
+            # Language plugin
           plugin_languages: yes
           plugin_languages_colors: rainbow
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          
+
           # Retrying automatically failed rendering and output action
           retries_output_action: 5
           retries_delay_output_action: 60
