@@ -39,6 +39,7 @@
 ![Achievements](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/achievements.svg)
 ![trophy](https://github-profile-trophy.vercel.app/?username=char-al&no-bg=true&no-frame=true&column=4&theme=algolia)
 
+
 </p>
 <table width="2000">
 <tr>
