@@ -29,6 +29,7 @@ jobs:
           config_timezone: Europe/Oslo
           config_output: svg
           filename: metrics.svg
+          base: header, activity, community, repositories, metadata
           base_hireable: yes
 
           # Retrying automatically failed rendering and output action
