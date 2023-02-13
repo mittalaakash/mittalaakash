@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.31
         with:
         
           # You'll need to setup a personal token in your secrets.
@@ -35,7 +35,7 @@ jobs:
   calendar:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.31
         with:
         
           # You'll need to setup a personal token in your secrets.
@@ -62,7 +62,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.31
         with:
         
           # You'll need to setup a personal token in your secrets.
@@ -91,7 +91,7 @@ jobs:
   languages:
     runs-on: ubuntu-latest
     steps:
-     - uses: lowlighter/metrics@latest
+     - uses: lowlighter/metrics@v3.31
        with:
         
           # You'll need to setup a personal token in your secrets.
