@@ -28,7 +28,7 @@ jobs:
           config_display: regular
           config_timezone: Europe/Oslo
           config_output: svg
-          filename: metrics1.svg
+          filename: metrics.svg
           
           # Retrying automatically failed rendering and output action
           retries_output_action: 5
