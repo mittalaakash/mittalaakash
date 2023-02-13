@@ -25,7 +25,7 @@ jobs:
 
           # Options
           user: mittalaakash
-          config_display: columns
+          config_display: regular
           config_timezone: Europe/Oslo
           config_output: svg
           filename: metrics.svg
