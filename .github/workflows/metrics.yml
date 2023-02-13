@@ -23,14 +23,14 @@ jobs:
           committer_branch: metrics
           committer_message: "build: update `${filename}`"
           
-          # Options
-          user: mittalaakash
-          template: classic
-          base: ""
-          config_display: large
-          config_timezone: Europe/Oslo
-          config_output: svg
-          filename: metrics.svg
+#           # Options
+#           user: mittalaakash
+#           template: classic
+#           base: ""
+#           config_display: large
+#           config_timezone: Europe/Oslo
+#           config_output: svg
+#           filename: metrics.svg
           
           # Retrying automatically failed rendering and output action
           retries_output_action: 5
