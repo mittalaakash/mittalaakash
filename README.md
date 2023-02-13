@@ -1,20 +1,27 @@
-<h1 align="left">Hi 👋, I'm </h1>
+<h1 align="left">Hi 👋, I'm Aakash Mittal.</h1>
 
 ![Metrics](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/metrics.svg)<a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://raw.githubusercontent.com/mittalaakash/mittalaakash/devcard/devcard.svg" width="256" alt="Aakash Mittal's Dev Card"/></a>
 
 <h3 align="left">About me: I'ld say I'm a passionate full stack developer from India</h3>
 
-- 💼 Currently working for Leading EdTech **Byjus's**
+- 💼 Currently working for World's leading EdTech **Byjus's**
 
-- 🔭 I’m currently working on **Tour-Project**
+- 🔭 Ongoing Project: **Development of a platform to support the delivery of orders as part of our expansion into the US market.**
 
-- 🌱 I’m currently learning **new things everyday**
+- I'm a ⭐ when it comes to **JavaScript** and all the cool frameworks and libraries that go with it, like **Node.js** and **React** I've got 2+ years of experience under my belt and know my way around building killer web apps.
 
-- 💬 Ask me about **Javascript**
+- 🌱 In addition to my existing expertise, I am actively working to improve my **Data Structures and Algorithms** skills using the **C++** programming language. This effort is part of my ongoing commitment to maintaining and expanding my technical knowledge, in order to stay ahead of industry developments and deliver the highest quality work to my clients and employers.
 
 - 📫 You can reach out to me at **mit.ash.619@gmail.com**
 
-- ⚡ Fun fact **I'm a Mechanical Engineer by education and Software Engineer by skills**
+- ⚡ Fun fact **I'm a Mechanical Engineer 🛠️ by Degree and a Software Engineer 💻by keyboard, mouse, and Google search skills! Basically, I can fix your car one day and code you a website the next! I'm like a jack-of-all-trades but instead of a hammer, I have a keyboard, and instead of a nail, I have a bug that I need to fix.**
+
+💼 Currently working for World's leading EdTech: BYJU's 🚀
+🔭 Currently working on: Tour-Project 🚀
+🌱 Currently learning: new things every day 🧠
+💬 Expert in: Javascript 💻
+📫 Reach me at: mit.ash.619@gmail.com 📧
+⚡ Fun fact: Mechanical Engineer by education and Software Engineer by skills 🤓
 
 <br>
 
@@ -38,7 +45,6 @@
 ![Most used languages](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/languages.svg)
 ![Achievements](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/achievements.svg)
 ![trophy](https://github-profile-trophy.vercel.app/?username=char-al&no-bg=true&no-frame=true&column=4&theme=algolia)
-
 
 </p>
 <table width="2000">
