@@ -14,7 +14,7 @@
 
 - 📫 You can reach out to me at **mit.ash.619@gmail.com**
 
-- ⚡ Fun fact **I'm a Mechanical Engineer 🛠️ by Degree and a Software Engineer 💻by keyboard, mouse, and Google search skills! Basically, I can fix your car one day and code you a website the next! I'm like a jack-of-all-trades but instead of a hammer, I have a keyboard, and instead of a nail, I have a bug that I need to fix.**
+- ⚡ Fun fact **I'm a Mechanical Engineer 🛠️ by Degree and a Software Engineer 💻 by keyboard, mouse, and Google search skills! Basically, I can fix your car one day and code you a website the next! I'm like a jack-of-all-trades but instead of a hammer, I have a keyboard, and instead of a nail, I have a bug that I need to fix.**
 </h3>
 <br>
 <h3 align="left">Connect with me:</h3>
