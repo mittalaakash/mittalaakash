@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aakash Mittal</h1>
+<h1 align="left">Hi 👋, I'm Aakash Mittal.</h1>
 
 ![Metrics](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/metrics.svg)<a href="https://app.daily.dev/mittalaakash" target="_blank"><img align="right" src="https://raw.githubusercontent.com/mittalaakash/mittalaakash/devcard/devcard.svg" width="256" alt="Aakash Mittal's Dev Card"/></a>
 
