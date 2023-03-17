@@ -4,7 +4,7 @@
 
 <h3>
 
-- 💼 Currently working for World's leading EdTech **Byjus's**
+- 💼 Currently working for World's leading EdTech [BYJU'S](https://byjus.com/)
 
 - 🔭 Ongoing Project: **Development of a platform to support the delivery of orders as part of our expansion into the US market.**
 
